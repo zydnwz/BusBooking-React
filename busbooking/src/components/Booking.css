@@ -1,0 +1,18 @@
+.booking-container {
+  border: 1px solid #f1eeee;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.booking-info {
+  margin-bottom: 5px;
+}
+
+.booking-info p {
+  margin: 5px 0;
+}
+
+.booking-actions button {
+  margin-right: 5px;
+}
